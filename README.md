@@ -1,16 +1,17 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋
+Hi there, it's Duy. <br>
+## 📫 Contact me via: 
+[![LinkedIn](https://i.imgur.com/Y5mNRZ9.png) LinkedIn](https://www.linkedin.com/in/trkhnhduy/)
+[![Instagram](https://i.imgur.com/Lk0sf5f.png) Instagram](https://www.instagram.com/trkhnhduy/)
 
-<!--
-**trkhnhduy/trkhnhduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ![](https://github-readme-stats.vercel.app/api?username=trkhnhduy&theme=transparent&hide_border=true&show_icons=true&hide=contribs,prs,issues) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trkhnhduy&theme=transparent&hide_border=true)  |
+| ------------- | ------------- |
+<a href="https://github.com/trkhnhduy/Oop_mau_giao/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trkhnhduy&repo=Oop_mau_giao&theme=radical" />
+</a> 
+<a href="https://github.com/trkhnhduy/DSA/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trkhnhduy&repo=DSA&theme=synthwave" />
+</a> 
+<a href="https://github.com/trkhnhduy/Bomberman_int2204/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=trkhnhduy&repo=Bomberman_int2204&theme=tokyonight" />
+</a> 
